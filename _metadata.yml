@@ -8,6 +8,8 @@ description: |
   This is a tutorial showing how to generate multitaper spectra in R 
   and how to compute spectral moments and DCT coefficients from multitaper spectra. 
 
+doi: 10.5281/zenodo.20070202
+
 citation:
   collection-title: "Linguistics Methods Hub"
   container-title: "Linguistics Methods Hub"
