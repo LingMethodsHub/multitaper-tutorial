@@ -1,0 +1,19 @@
+author:
+  - name: "Rasmus Puggaard-Rode"
+    url: "http://rpuggaardrode.github.io"
+    affiliations:
+      - "University of Oxford"
+
+description: |
+  This is a tutorial showing how to generate multitaper spectra in R 
+  and how to compute spectral moments and DCT coefficients from multitaper spectra. 
+
+citation:
+  collection-title: "Linguistics Methods Hub"
+  container-title: "Linguistics Methods Hub"
+
+image: index_files/figure-html/unnamed-chunk-11-1.png
+twitter-card:
+  image: index_files/figure-html/unnamed-chunk-11-1.png
+open-graph:
+  image: index_files/figure-html/unnamed-chunk-11-1.png     
